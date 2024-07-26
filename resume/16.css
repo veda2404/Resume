@@ -1,0 +1,35 @@
+.title
+{
+    background-color: rgb(54, 37, 14);
+}
+#para{
+    text-align: center;
+    color:rgb(15, 81, 65)
+}
+
+.header{
+    background-color:rgb(207, 185, 185);
+    margin: 5px;
+    padding: 10px;
+    font-size: 15px;
+    border-bottom-left-radius: 0cqmax;
+    padding-left: 30px;
+    height: 250px;
+}
+.main{
+    background-color: rgb(203, 198, 185);
+    font-size: 14px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 5px;
+    padding: 10px;
+}
+.main h1 p{
+    padding-left: 20px;
+}
+.footer{
+    background-color: rgb(207, 185, 185);
+    font-size: 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    padding: 10px;
+}
